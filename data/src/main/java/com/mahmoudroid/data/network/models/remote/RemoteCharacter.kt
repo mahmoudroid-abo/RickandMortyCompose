@@ -1,5 +1,8 @@
 package com.mahmoudroid.data.network.models.remote
 
+import com.mahmoudroid.data.network.models.domain.CharacterGender
+import com.mahmoudroid.data.network.models.domain.CharacterStatus
+import com.mahmoudroid.data.network.models.domain.Character
 import kotlinx.serialization.Serializable
 
 @Serializable
